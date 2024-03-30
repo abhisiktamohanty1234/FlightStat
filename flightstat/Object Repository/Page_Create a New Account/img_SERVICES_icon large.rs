@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_SERVICES_icon large</name>
+   <tag></tag>
+   <elementGuidId>1576409c-9517-4efe-a944-34db60d4385b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div/main/div/div/div[2]/div/div[2]/div/div/div/div[2]/div/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.icon.large</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon large</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>data:image/svg+xml;base64,PHN2ZyBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCA1MDAgNTAwIiB2aWV3Qm94PSIwIDAgNTAwIDUwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJtNDMyLjQgNDk3LjJoLTM1OC41Yy0zNy42IDAtNjguMS0zMC42LTY4LjEtNjguMXYtMzU4LjVjLS4xLTM3LjYgMzAuNS02OC4yIDY4LjEtNjguMmgzNTguNWMzNy42IDAgNjguMSAzMC42IDY4LjEgNjguMXYzNTguNWMwIDM3LjctMzAuNiA2OC4yLTY4LjEgNjguMnptLTM1OC41LTQ2MC43Yy0xOC44IDAtMzQuMSAxNS4zLTM0LjEgMzQuMXYzNTguNWMwIDE4LjggMTUuMyAzNC4xIDM0LjEgMzQuMWgzNTguNWMxOC44IDAgMzQuMS0xNS4zIDM0LjEtMzQuMXYtMzU4LjVjMC0xOC44LTE1LjMtMzQuMS0zNC4xLTM0LjF6IiBmaWxsPSIjZmFhNzE4Ii8+PGcgZmlsbD0ibm9uZSI+PHBhdGggZD0ibTM5NC43IDI4Ni44LTE3LjEgNy45LTMzLjggMTUuNWM4LjggNC4xIDE4LjYgNi40IDI4LjkgNi40IDM4IDAgNjguOS0zMC45IDY4LjktNjguOSAwLTE5LjItNy45LTM2LjYtMjAuNi00OS4xbC0xNS41IDcxLjRjLS4yIDcuMS00LjEgMTMuOC0xMC44IDE2Ljh6Ii8+PHBhdGggZD0ibTI2OC45IDI2NC45LTYuOS0xNSAyNi40LTEyLjFjLjQtMy43IDEuMS03LjQgMi0xMC45bC0xLjktNC4yLTMyLjIgMTQuOC02LjUtMTQuMSAzMi45LTE1LjEtNS43LTEyLjUtNDcgMjEuNiAzMC41IDY2LjUgMzAuMy0xMy45Yy0xLjItNC41LTIuMS05LjEtMi42LTEzLjl6Ii8+PHBhdGggZD0ibTMwNC4yIDI1NWMuMyAyLjguOCA1LjUgMS40IDguMWwxLjktLjl6Ii8+PHBhdGggZD0ibTEzNS4zIDI5My02LjUtMTQuMSAzMi45LTE1LjEtNS43LTEyLjQtNDcgMjEuNiAzMC41IDY2LjUgMTQuMS02LjUtMTIuNi0yNy41IDMyLjItMTQuOC01LjctMTIuNXoiLz48cGF0aCBkPSJtMzM2IDE3MS4xLS45LTItNDcgMjEuNiA4LjcgMTljOC40LTE2LjggMjIuMi0zMC40IDM5LjItMzguNnoiLz48cGF0aCBkPSJtMzE4LjYgMjU3LjIgNDctMjEuNi01LjctMTIuNS0zMi45IDE1LjEtNi45LTE1IDMyLjItMTQuOC01LjctMTIuNS0zMS45IDE0LjdjLTMuOCA1LjktNi43IDEyLjUtOC42IDE5LjR6Ii8+PHBhdGggZD0ibTIyOS4xIDI0My43Yy01LjctMTIuNC0xOC4zLTE3LjUtMzIuMi0xMS4ybC0zMS4xIDE0LjMgMzAuNSA2Ni41IDE0LjItNi41LTEwLjktMjMuNiAxMC40LTQuOCAyMy45IDE3LjYgMTYuMi03LjUtMjYuNi0xOC40YzYuNS00LjkgMTEtMTQuNiA1LjYtMjYuNHptLTIwLjMgMjAuMi0xNC44IDYuOC04LjItMTcuOSAxNC44LTYuOGM1LjctMi42IDExLjUtMS4yIDE0LjEgNC40IDIuNSA1LjYtLjIgMTAuOS01LjkgMTMuNXoiLz48cGF0aCBkPSJtMzk1LjcgMTYwLjRjLTYuMy0xLjYtMTIuNi0uNS0xNy44IDIuNSAxMS42LjcgMjIuNyAzLjggMzIuNiA4LjctMy4xLTUuMy04LjMtOS41LTE0LjgtMTEuMnoiLz48cGF0aCBkPSJtMzY2LjQgMTc5Yy0yLjQgMTIuMyA1LjIgMjQuNSAxNy41IDI3LjYgMTIuMSAzLjEgMjQuNC0zLjcgMjguNC0xNS4zLTExLjItNy45LTI0LjktMTIuNi0zOS43LTEyLjYtMiAwLTQuMS4xLTYuMi4zeiIvPjwvZz48cGF0aCBkPSJtMjAwLjYgMjQ2LTE0LjggNi44IDguMiAxNy45IDE0LjgtNi44YzUuNy0yLjYgOC40LTggNS44LTEzLjUtMi41LTUuNi04LjMtNy0xNC00LjR6IiBmaWxsPSIjZmZmIi8+PHBhdGggZD0ibTQyMy42IDE4Ny4xIDEuNC02LjVzLS4xLS4xLS4xLS4xbDEtNC41Yy0uNi01LjUtMy4xLTEwLjUtNi45LTE0LjNsLTExLjgtNi40LTczLjgtMzkuOWMtNS4zLTMuNi0xMi4yLTQuNS0xOC4zLTEuN2wtMTcuMSA3LjktMTk1IDg5LjUtMjMgMTAuNmMtOS40IDQuMy0xMy40IDE1LjktOC45IDI1LjhsOC4yIDE3LjkgNDYuNiAxMDEuNSA4LjIgMTcuOWM0LjUgOS45IDE1LjkgMTQuNCAyNS40IDEwbDE3LjEtNy45IDE0OS4xLTY4LjVjLjEgMCAuMS4xLjIuMWwxNy45LTguMmMtMTktOC45LTMzLjQtMjYuMi0zOC4yLTQ3LjFsLTE0LjggNi44YzMuMSAxMS4zIDguNCAyMS42IDE1LjUgMzAuNS03LjEtOC45LTEyLjQtMTkuMi0xNS41LTMwLjVsLTMwLjMgMTMuOS0zMC41LTY2LjUgNDctMjEuNiA1LjcgMTIuNS0zMi45IDE1LjEgNi41IDE0LjEgMzIuMi0xNC44IDEuOSA0LjJzMCAwIDAtLjFsMy44IDguMy01LjggMi42LTI2LjQgMTIuMiA2LjkgMTUgMTkuMy04LjkgMTMuNi02LjIgMi40IDUuMiAzLjMgNy4yLTEuOS45YzQuOCAyMC45IDE5LjIgMzguMiAzOC4zIDQ3LjFsMzMuOC0xNS41IDE3LjEtNy45YzYuNi0zIDEwLjYtOS43IDEwLjctMTYuOGwxNC02NC44YzExLjggMTIuNCAxOS4xIDI5LjEgMTkuMSA0Ny41IDAgMzgtMzAuOSA2OC45LTY4LjkgNjguOS0xMC4zIDAtMjAuMS0yLjMtMjguOS02LjRsLTE3LjkgOC4yYzEzLjQgOC45IDI5LjUgMTQuMSA0Ni44IDE0LjEgNDYuOCAwIDg0LjktMzguMSA4NC45LTg0LjkuMS0yNi4zLTEyLjEtNDkuOS0zMS02NS41em0tMjgyLjYgMTE4LjQgMTIuNiAyNy41LTE0LjIgNi41LTMwLjQtNjYuNSA0Ny0yMS42IDUuNyAxMi41LTMyLjkgMTUuMSA2LjUgMTQuMSAzMi4yLTE0LjggNS43IDEyLjV6bTgyLjctMzUuMyAyNi42IDE4LjQtMTYuMyA3LjUtMjMuOS0xNy42LTEwLjQgNC44IDEwLjkgMjMuNi0xNC4yIDYuNS0zMC41LTY2LjUgMzEuMS0xNC4zYzEzLjktNi40IDI2LjUtMS4yIDMyLjIgMTEuMiA1LjQgMTEuOC45IDIxLjQtNS41IDI2LjR6bTk0LjktMTMtMTIuNS0yNy4yYy0xLjUgNS42LTIuMyAxMS41LTIuMyAxNy42IDAgMS4yIDAgMi41LjEgMy43LS4xLTEuMi0uMS0yLjUtLjEtMy43IDAtNi4xLjgtMTIgMi4zLTE3LjZsLTkuMy0yMC4zLTguNy0xOC45IDQ3LTIxLjYuOSAyYzExLjEtNS40IDIzLjYtOC40IDM2LjctOC40LTEzLjIgMC0yNS42IDMtMzYuNiA4LjRsNC44IDEwLjUtMzMgMTUgNi41IDE0LjEuMy0uMXMuMS0uMS4xLS4xbDMxLjgtMTQuNyA1LjcgMTIuNS0zMi4yIDE0LjggNi45IDE1IDMyLjktMTUuMSA1LjcgMTIuNXptNjUuNC01MC42Yy0xMi4zLTMuMS0xOS45LTE1LjItMTcuNS0yNy41LjEtLjUuMi0uOS4zLTEuNCAxLjctNi41IDUuOC0xMS42IDExLjItMTQuN2gtLjFjNS4yLTMgMTEuNS00LjEgMTcuOC0yLjUgNi41IDEuNyAxMS42IDUuOCAxNC43IDExLjIuMS4xLjMuMi40LjIuOSAxLjggMS42IDMuNiAyLjEgNS41LS4yLS4zLS4zLS42LS41LS45LTkuOS00LjktMjAuOS04LTMyLjYtOC43LTUuMyAzLjEtOS41IDguMy0xMS4yIDE0LjctLjEuNS0uMi45LS4zIDEuNCAyLjEtLjIgNC4yLS4zIDYuMy0uMyAxMy40IDAgMjUuOCAzLjkgMzYuNCAxMC41LTQuNyA5LjktMTUuOSAxNS4zLTI3IDEyLjV6bTMxLjItMTMuMmMxLjUgMS4xIDIuOSAyLjMgNC4yIDMuNXYuMWMtMS4zLTEuMi0yLjctMi40LTQuMi0zLjZ6IiBmaWxsPSIjZmZmIi8+PC9zdmc+</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>icon</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[1]/div[@class=&quot;content-holder&quot;]/main[@class=&quot;container&quot;]/div[@class=&quot;account-registration-container&quot;]/div[1]/div[@class=&quot;plan-selected&quot;]/div[@class=&quot;HighlightedSection&quot;]/div[@class=&quot;row sectionBody&quot;]/div[@class=&quot;new-account-plan-selection-wrapper subscription-feature-info-container&quot;]/div[1]/div[@class=&quot;plan-title-buttons-container&quot;]/div[@class=&quot;plan-title-row&quot;]/div[@class=&quot;free-plan highlight-background&quot;]/div[@class=&quot;subscription-feature-chart-header&quot;]/div[@class=&quot;icon-title-container&quot;]/img[@class=&quot;icon large&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div/main/div/div/div[2]/div/div[2]/div/div/div/div[2]/div/div/div/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='icon']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/div/div/img</value>
+   </webElementXpaths>
+</WebElementEntity>
